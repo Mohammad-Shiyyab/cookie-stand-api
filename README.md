@@ -2,7 +2,7 @@
 
 ## project name: Cookie Stand API
 
-Author: Emam Mounqer
+Author: Mohammad Shiyab
 
 ## setup
 
