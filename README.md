@@ -6,15 +6,15 @@ Author: Mohammad Shiyab
 
 ## setup
 
-pip install -r requirements.txt
+`pip install -r requirements.txt`
 
 ## How to run the app ?
-python manage.py runserver
+`python manage.py runserver`
 
 ## How to run the test ?
-python manage.py test
+`python manage.py test`
 ## how to Create Docker image ?
-docker-compose up --build
+`docker-compose up --build`
 
 ## You need the super user to login to the admin page
-username: admin password: admin
+`username:` admin `password:` admin
